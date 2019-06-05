@@ -1,4 +1,4 @@
-cordova-replay
+cordova-replay (Swift 5)
 ======
 
 Install
